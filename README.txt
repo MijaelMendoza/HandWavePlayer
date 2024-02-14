@@ -11,7 +11,7 @@ Requirements:
 Python 3.x
 Libraries: OpenCV, MediaPipe, and other dependencies (details in the documentation).
 Usage Instructions:
-Clone the repository: git clone https://github.com/yourusername/HandWavePlayer.git
+Clone the repository: git clone https://github.com/MijaelMendoza/HandWavePlayer.git
 Install dependencies: pip install -r requirements.txt
 Run the program: python hand_wave_player.py
 Enjoy the experience of controlling your music with simple gestures! If you encounter issues or have suggestions, feel free to open an issue or contribute to the project.
